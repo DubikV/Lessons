@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Android\Android Project\Lessons\NavDrawerSample\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="D:\Android\Android Project\Lessons\NavDrawerSample\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-21.0.3_c7311b17f9442fdd1564bba5cc49796a46d7eeac.jar" />
+    </item>
+    <item
+        jar="D:\Android\Android Project\Lessons\NavDrawerSample\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="D:\Android\Android Project\Lessons\NavDrawerSample\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-21.0.3_e04e0207b6abaf58ed34952870f9101573ac45b9.jar" />
+    </item>
+    <item
+        jar="D:\Android\Android Project\Lessons\NavDrawerSample\app\build\intermediates\exploded-aar\com.mikepenz.iconics\library\0.7.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6d88ec155032460a5f4efa723a04c460d3391193">
+        <dex dex="D:\Android\Android Project\Lessons\NavDrawerSample\app\build\intermediates\pre-dexed\debug\com.mikepenz.iconics-library-0.7.3_99e36ce3fe5cba05a1d89332ac5eec2998679d8a.jar" />
+    </item>
+    <item
+        jar="D:\Android\Android Project\Lessons\NavDrawerSample\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="D:\Android\Android Project\Lessons\NavDrawerSample\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3_fb19f576bab8961e8e7b3cc36c7c6d728633890d.jar" />
+    </item>
+    <item
+        jar="D:\Android\Android Project\Lessons\NavDrawerSample\app\build\intermediates\exploded-aar\com.mikepenz.materialdrawer\library\0.9.5\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="196889103665d7eae17105a5a78f141086044301">
+        <dex dex="D:\Android\Android Project\Lessons\NavDrawerSample\app\build\intermediates\pre-dexed\debug\com.mikepenz.materialdrawer-library-0.9.5_685eb9dd1b3154c534b340c20fae263602566466.jar" />
+    </item>
+    <item
+        jar="D:\Android\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="D:\Android\Android Project\Lessons\NavDrawerSample\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3_216941567293cae8861a5d554171bbcb274d954e.jar" />
+    </item>
+
+</items>
